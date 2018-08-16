@@ -18,7 +18,7 @@ The vision to interact with one&#39;s surroundings by merely using hand gestures
 2. Limited Appliances. The user can only interact with devices present in a room or some physical boundary. (This happens in devices that need to be fixed at a particular location)
 3. Explicit user specification. The user must explicitly specify the device he/she wants to interact with i.e. the device cannot detect changes in objects of interest (object the user wishes to control).
 
-**2****. **** Concept**
+**2. Concept**
 
 The solution to the above problems can be obtained by building a wearable device which not only detects hand gestures but also detects the objects of interest. This can achieved by thinking of the device as a wearable - a glass - which consists of a build in camera sensor. Assuming that the user will be facing the appliance (object of interest) before he/she makes the required gesture to interact with it, it can be said that a camera sensor on the glass will be able to view the hand gesture as well as the object of interest. This approach would solve a major part of the problem. Hence, the solution can be stated as
 
