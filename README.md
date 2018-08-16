@@ -40,24 +40,28 @@ In order to find the above mentioned property, the hand was contoured from 10 di
 The results obtained were as follows
 
 ![alt text](https://github.com/ApoorvSadana/ProjectGesture/blob/master/images/image1.png?raw=true)
+
 (a)
 
 ![alt text](https://github.com/ApoorvSadana/ProjectGesture/blob/master/images/image3.png?raw=true)
+
 (b)
 
 ![alt text](https://github.com/ApoorvSadana/ProjectGesture/blob/master/images/image2.png?raw=true)
+
 (c)
 
 ![alt text](https://github.com/ApoorvSadana/ProjectGesture/blob/master/images/image5.png?raw=true)
+
 (d)
 
 _Fig 1   (a) Graph of Aspect Ratio vs Image Number_
 
 _(b) Graph of Equivalent Diameter vs Image Number_
 
-_ (c) Graph of Extent vs Image Number_
+_(c) Graph of Extent vs Image Number_
 
-_ (d) Graph of Solidity vs Image Number_
+_(d) Graph of Solidity vs Image Number_
 
 _All graphs were plotted using matplotlib_
 
