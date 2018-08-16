@@ -42,13 +42,13 @@ The results obtained were as follows
 ![alt text](https://github.com/ApoorvSadana/ProjectGesture/blob/master/images/image1.png?raw=true)
 (a)
 
-![alt text](https://github.com/ApoorvSadana/ProjectGesture/blob/master/images/image2.png?raw=true)
+![alt text](https://github.com/ApoorvSadana/ProjectGesture/blob/master/images/image3.png?raw=true)
 (b)
 
-![alt text](https://github.com/ApoorvSadana/ProjectGesture/blob/master/images/image3.png?raw=true)
+![alt text](https://github.com/ApoorvSadana/ProjectGesture/blob/master/images/image2.png?raw=true)
 (c)
 
-![alt text](https://github.com/ApoorvSadana/ProjectGesture/blob/master/images/image4.png?raw=true)
+![alt text](https://github.com/ApoorvSadana/ProjectGesture/blob/master/images/image5.png?raw=true)
 (d)
 
 _Fig 1   (a) Graph of Aspect Ratio vs Image Number_
@@ -139,7 +139,7 @@ Table 3
 
 The results obtained can be seen in Fig 2. which shows the graph of accuracy vs number of training steps. The blue curve represents the validation accuracy and it can be seen that the validation accuracy reaches a maximum of 80% after which the model starts overfitting.
 
-![alt text](https://github.com/ApoorvSadana/ProjectGesture/blob/master/images/image5.png?raw=true)
+![alt text](https://github.com/ApoorvSadana/ProjectGesture/blob/master/images/image4.png?raw=true)
 _Fig 2. Plot of accuracy vs number of training steps when training with NUS hand posture dataset. The red line shows the training accuracy and the blue line shows the validation accuracy. The plot was made using TensorBoard._
 
 **4.2 Making a Personalized Dataset**
