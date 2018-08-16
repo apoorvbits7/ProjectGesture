@@ -2,7 +2,6 @@
 
 **Apoorv Sadana**
 
-Delhi Private School Dubai
 
 **ABSTRACT**
 
